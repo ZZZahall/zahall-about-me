@@ -25,7 +25,7 @@ h1 {
 
 h3 {
   font-size:30px;
-  color:#530e53
+  color:#530e53;
   background-color:#b3b3b3;
   padding-left:20px;
 }
@@ -33,6 +33,6 @@ h3 {
 .float-left {
   float:left;
   padding-right:30px;
-  
+
 
 }
